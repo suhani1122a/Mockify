@@ -31,3 +31,4 @@ Mockify is a mock interview platform designed to enhance interview preparation t
 - **WebRTC Simplification:** Simplified WebRTC integration with peerjs, enabling smooth and accessible audio and video communication.
 - **Collaborative Tools:** Developed collaborative text and code editors to enhance the interview experience, allowing real-time editing and sharing of information.
 
+![Screenshot (31)](https://github.com/user-attachments/assets/2e160546-2168-48bc-8067-94ccc1ea6f1e)
